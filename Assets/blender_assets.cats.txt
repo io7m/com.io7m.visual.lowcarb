@@ -1,0 +1,18 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+29bf9393-3cc8-4086-9366-0f9541fff8a5:LowCarb:LowCarb
+6273a8ea-6f2e-4809-8216-c22a8b4bf90a:LowCarb/Furniture:LowCarb-Furniture
+7f96cf04-b279-4fe7-8ffe-bb90850f3897:LowCarb/Furniture/Carpets:LowCarb-Furniture-Carpets
+4bc4ac59-9b9d-41b3-8dad-f4e7eac24b83:LowCarb/Furniture/Chairs:LowCarb-Furniture-Chairs
+75be0487-5627-460e-93fc-452909c6d8dd:LowCarb/Furniture/CoffeeTables:LowCarb-Furniture-CoffeeTables
+fc2ba7e0-159d-4aa3-8987-f20875b2cd4a:LowCarb/Furniture/FloorMats:LowCarb-Furniture-FloorMats
+8ad35c3d-c913-4f21-8291-6873b3b3cf36:LowCarb/Furniture/HousePlants:LowCarb-Furniture-HousePlants
+fcbd65d8-443b-4356-9f05-8c5d9220563c:LowCarb/Furniture/Utility:LowCarb-Furniture-Utility
+f883b11f-772a-49b5-a9e9-5652b5819d45:LowCarb/Props:LowCarb-Props
+2b2211f5-8d5e-4bec-b49f-e73749a5bd48:LowCarb/Props/Magazines:LowCarb-Props-Magazines
