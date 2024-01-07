@@ -15,4 +15,5 @@ fc2ba7e0-159d-4aa3-8987-f20875b2cd4a:LowCarb/Furniture/FloorMats:LowCarb-Furnitu
 8ad35c3d-c913-4f21-8291-6873b3b3cf36:LowCarb/Furniture/HousePlants:LowCarb-Furniture-HousePlants
 fcbd65d8-443b-4356-9f05-8c5d9220563c:LowCarb/Furniture/Utility:LowCarb-Furniture-Utility
 f883b11f-772a-49b5-a9e9-5652b5819d45:LowCarb/Props:LowCarb-Props
+28377286-07aa-4488-a92b-ce6cd47e2cb0:LowCarb/Props/CerealBoxes:LowCarb-Props-CerealBoxes
 2b2211f5-8d5e-4bec-b49f-e73749a5bd48:LowCarb/Props/Magazines:LowCarb-Props-Magazines
