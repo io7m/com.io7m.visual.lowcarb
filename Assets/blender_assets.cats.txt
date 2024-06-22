@@ -15,7 +15,9 @@ fc2ba7e0-159d-4aa3-8987-f20875b2cd4a:LowCarb/Furniture/FloorMats:LowCarb-Furnitu
 8ad35c3d-c913-4f21-8291-6873b3b3cf36:LowCarb/Furniture/HousePlants:LowCarb-Furniture-HousePlants
 fcbd65d8-443b-4356-9f05-8c5d9220563c:LowCarb/Furniture/Utility:LowCarb-Furniture-Utility
 f883b11f-772a-49b5-a9e9-5652b5819d45:LowCarb/Props:LowCarb-Props
-bdbc0eff-d0d9-4b6d-9d8e-aca4ca8c379a:LowCarb/Props/BackgroundTrees:LowCarb-Props-BackgroundTrees
+c9834d99-8318-4cb0-811c-e5a32842ee1b:LowCarb/Props/BackgroundTrees:LowCarb-Props-BackgroundTrees
+d0849e42-560d-4404-971d-795e09411eda:LowCarb/Props/BackgroundTrees/Cross:LowCarb-Props-BackgroundTrees-Cross
+ac978682-d2ab-4a92-a8c5-04fc12caede5:LowCarb/Props/BackgroundTrees/Flat:LowCarb-Props-BackgroundTrees-Flat
 28377286-07aa-4488-a92b-ce6cd47e2cb0:LowCarb/Props/CerealBoxes:LowCarb-Props-CerealBoxes
 2b2211f5-8d5e-4bec-b49f-e73749a5bd48:LowCarb/Props/Magazines:LowCarb-Props-Magazines
 f5c4af0d-64cd-4bb8-8a9e-460d6d850a7c:LowCarb/Props/Paintings:LowCarb-Props-Paintings
